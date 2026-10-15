@@ -53,8 +53,6 @@ workflow at that point.
 
 ## 4. Conventions
 
-- Write clean, modern, readable code. Prioritise readability and maintainability.
-- Explain complex logic or significant architectural decisions.
 - Keep markup semantic and assets organised.
 
 ---
